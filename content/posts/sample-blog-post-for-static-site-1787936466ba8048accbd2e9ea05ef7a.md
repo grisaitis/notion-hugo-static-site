@@ -1,8 +1,8 @@
 ---
 title: "sample blog post for static site"
 date: "2025-01-11T18:40:00.000Z"
-lastmod: "2025-01-11T19:38:00.000Z"
-draft: false
+lastmod: "2025-01-24T15:03:00.000Z"
+draft: true
 series: []
 authors:
   - "William Grisaitis"
@@ -13,7 +13,7 @@ NOTION_METADATA:
   object: "page"
   id: "17879364-66ba-8048-accb-d2e9ea05ef7a"
   created_time: "2025-01-11T18:40:00.000Z"
-  last_edited_time: "2025-01-11T19:38:00.000Z"
+  last_edited_time: "2025-01-24T15:03:00.000Z"
   created_by:
     object: "user"
     id: "e12fdab4-b874-4141-9d14-132b0c56750c"
@@ -35,7 +35,7 @@ NOTION_METADATA:
     draft:
       id: "JiWU"
       type: "checkbox"
-      checkbox: false
+      checkbox: true
     authors:
       id: "bK%3B%5B"
       type: "people"
@@ -76,7 +76,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-01-11T19:38:00.000Z"
+      last_edited_time: "2025-01-24T15:03:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
