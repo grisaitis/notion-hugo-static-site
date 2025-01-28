@@ -1,0 +1,13 @@
+# color style
+  color = 'light'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'grisaitis'               # twitter.com/YOUR_TWITTER_ID
+  github = 'grisaitis'                 # github.com/YOUR_GITHUB_ID
+  linkedin = 'grisaitis'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  rss = true                                # show rss icon
+
+  # home page profile
+  avatar = 'static/img/headshot_subway.png'                 # gravatar email or image url
+  name = 'william grisaitis'
+  bio = 'tinkerer and curious person'
