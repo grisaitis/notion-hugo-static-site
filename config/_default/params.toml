@@ -5,13 +5,27 @@ defaultTheme = "auto"  # "light", "dark", or "auto"
 disableThemeToggle = false
 
 # Home page layout settings
-[homeInfoParams]
-Title = "Hi there 👋"
-Content = """
-hello! welcome to my rustic hugo site, set up in late 2024. 
+# [homeInfoParams]
+# Title = "Hi there 👋"
+# Content = """
+# hello! welcome to my rustic hugo site, set up in late 2024. 
 
-i work in machine learning professionally, and enjoy learning about ML / tech, travel, food / cooking, mental health, and politics, among other related things. feel free to connect with me via social links below.
+# i work in machine learning professionally, and enjoy learning about ML / tech, travel, food / cooking, mental health, and politics, among other related things. feel free to connect with me via social links below.
+# """
+
+# Profile settings
+[profileMode]
+enabled = true
+title = "william grisaitis"
+subtitle = """
+hello, world! i work in machine learning, and recently set up this hugo + notion.so site for occasional writings about tech and other topics that interest me, such as travel, food, current events, or self-improvement.
+
+feel free to connect with me via the social links below.
 """
+imageUrl = "/img/headshot_subway.jpg"  # Place your image in static/img/
+imageTitle = "william grisaitis"
+imageWidth = 120   # custom size
+imageHeight = 120  # custom size
 
 # Social links
 [[socialIcons]]
