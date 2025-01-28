@@ -1,4 +1,4 @@
 baseURL = "https://notion-hugo-static-site.pages.dev/"
 languageCode = "en-us"
 title = "william grisaitis"
-theme = "hugo-PaperMod"
+theme = "paper"
