@@ -1,18 +1,18 @@
 ---
 title: "On the total solar eclipse of 2024"
 date: "2024-04-09T13:33:00.000Z"
-lastmod: "2025-01-24T15:02:00.000Z"
+lastmod: "2025-01-28T14:00:00.000Z"
 draft: false
 series: []
-tags: []
-categories: []
 authors:
   - "William Grisaitis"
+tags: []
+categories: []
 NOTION_METADATA:
   object: "page"
   id: "f8701f58-8721-4340-b13a-a235cd0af5b5"
   created_time: "2024-04-09T13:33:00.000Z"
-  last_edited_time: "2025-01-24T15:02:00.000Z"
+  last_edited_time: "2025-01-28T14:00:00.000Z"
   created_by:
     object: "user"
     id: "e12fdab4-b874-4141-9d14-132b0c56750c"
@@ -38,7 +38,15 @@ NOTION_METADATA:
     authors:
       id: "bK%3B%5B"
       type: "people"
-      people: []
+      people:
+        - object: "user"
+          id: "e12fdab4-b874-4141-9d14-132b0c56750c"
+          name: "William Grisaitis"
+          avatar_url: "https://lh3.googleusercontent.com/-YQYZbkungeo/AAAAAAAAAAI/AAAAAAA\
+            AAAA/AB6qoq2mOn6yhxJBxLVOx6OsQmxwN5_1wA/mo/photo.jpg?sz=50"
+          type: "person"
+          person:
+            email: "wi064182@ucf.edu"
     custom-front-matter:
       id: "c~kA"
       type: "rich_text"
@@ -54,7 +62,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-01-24T15:02:00.000Z"
+      last_edited_time: "2025-01-28T14:00:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
