@@ -46,7 +46,7 @@ hello, world! i work in machine learning, and recently set up this hugo + notion
 
 feel free to connect with me via the social links below.
 """
-imageUrl = "/img/headshot_subway.jpg"  # Place your image in static/img/
+imageUrl = "img/headshot_subway.jpg"  # Place your image in static/img/
 imageTitle = "william grisaitis"
 imageWidth = 120   # custom size
 imageHeight = 120  # custom size
