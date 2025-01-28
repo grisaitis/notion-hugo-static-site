@@ -1,4 +1,47 @@
 version = "0.3.X"
+
+# Theme settings
+defaultTheme = "auto"  # "light", "dark", or "auto"
+disableThemeToggle = false
+
+# Home page layout settings
+[homeInfoParams]
+Title = "Hi there 👋"
+Content = """
+hello! welcome to my rustic hugo site, set up in late 2024. 
+
+i enjoy reading and writing natural language and software related to machine learning / tech, travel, math, food, mental health, and other .
+"""
+
+# Social links
+[[socialIcons]]
+name = "email"
+url = "mailto:wgrisaitis@gmail.com"
+
+[[socialIcons]]
+name = "whatsapp"
+url = "https://wa.me/13214229231"
+
+[[socialIcons]]
+name = "github"
+url = "https://github.com/grisaitis"
+
+[[socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/grisaitis"
+
+[[socialIcons]]
+name = "twitter"
+url = "https://twitter.com/grisaitis"
+
+[[socialIcons]]
+name = "bluesky"
+url = "https://bsky.app/profile/grisaitis.bsky.social"
+
+[[socialIcons]]
+name = "goodreads"
+url = "https://www.goodreads.com/user/show/3660834-william"
+
 [page]
 [page.math]
 enable = true
